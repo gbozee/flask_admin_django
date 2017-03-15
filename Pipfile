@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[dev-packages]
+Flask-DebugToolbar = "*"
+ipython = "*"
+
+[packages]
+Flask = "*"
+Django = "*"
+Flask-Admin = "*"
