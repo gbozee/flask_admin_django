@@ -2,7 +2,7 @@
 
 to install
 
-```pip install -e git+https://gitlab.com/gbozee/flask_admin_django.git@master#egg=contrib_django```
+```pip install -e git+https://github.com/gbozee/flask_admin_django.git@master#egg=contrib_django```
 
 and set up  `flask-admin`
 
